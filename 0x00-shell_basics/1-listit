@@ -1,3 +1,2 @@
 #!/bin/bash
-alx-system_engineering-devops 1-listit README.md
-
+ls
